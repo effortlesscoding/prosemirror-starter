@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.ProseMirror {
+  border: 1px solid black;
+}
+
+blockquote {
+  background: green;
+}
+
+.tooltip {
+  background-color: yellow;
+  position: absolute;
+}
+
+#root {
+  position: relative;
+}
+
+.test-block {
+  -webkit-user-modify: read-only;
+}
+
+.smartcard-block {
+  margin: 0 1rem;
+  padding: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  display: inline-block;
+}

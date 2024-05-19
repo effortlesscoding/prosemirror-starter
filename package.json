@@ -10,6 +10,11 @@
     "@types/node": "^16.18.46",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
+    "prosemirror-model": "^1.21.0",
+    "prosemirror-schema-basic": "^1.2.2",
+    "prosemirror-state": "^1.4.3",
+    "prosemirror-transform": "^1.7.5",
+    "prosemirror-view": "^1.33.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -39,5 +44,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "prosemirror-model": "1.21.0",
+    "prosemirror-schema-basic": "1.2.2",
+    "prosemirror-state": "1.4.3",
+    "prosemirror-transform": "1.7.5",
+    "prosemirror-view": "1.33.6"
   }
 }
